@@ -1,4 +1,4 @@
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gradleuu&layout=compact&hide_title=true&hide_progress=false&bg_color=ffffff00&border_color=55555500&text_color=888888&show_owner=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gradleuu&layout=compact&hide=html,css&hide_title=false&hide_progress=true&bg_color=ffffff00&border_color=55555500&text_color=888888&show_owner=true" />
 
 <div style="display: flex; flex-direction: column; gap: 10px;">
   <a href="https://github.com/gradleuu/95oscv">
@@ -14,9 +14,9 @@
   </a>
 </div>
 
-<br>
+<hr>
 
 <div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gradleuu&show_icons=true&hide=contribs,prs,issues&show=discussions_started,discussions_answered&bg_color=ffffff00&border_color=555555&text_color=888888&hide_rank=true&hide_title=true" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gradleuu&show_icons=true&hide=commits,stars&show=reviews&bg_color=ffffff00&border_color=555555&text_color=888888&hide_rank=true&hide_title=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gradleuu&show_icons=true&hide=contribs,commits,contribs,prs,issues&show=discussions_started,discussions_answered&bg_color=ffffff00&border_color=555555&text_color=888888&hide_rank=true&hide_title=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gradleuu&show_icons=true&hide=contribs,commits,stars&show=reviews&bg_color=ffffff00&border_color=555555&text_color=888888&hide_rank=true&hide_title=true" />
 </div>
