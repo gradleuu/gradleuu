@@ -1,4 +1,4 @@
-<sub>Tools, Languages & Software</sup>
+## <sub>Tools, Languages & Software</sup>
 
 <code><img height="26" alt="gradle" src="https://github.com/github/explore/blob/f7595bde8bb668be972e487807712732cdff9aed/topics/gradle/gradle.png"></code>
 <code><img height="26" alt="java" src="https://github.com/github/explore/blob/f7595bde8bb668be972e487807712732cdff9aed/topics/java/java.png"></code>
@@ -15,9 +15,10 @@
 <code><img height="26" alt="gitlab" src="https://github.com/github/explore/blob/f7595bde8bb668be972e487807712732cdff9aed/topics/gitlab/gitlab.png"></code>
 <code><img height="26" alt="intellij-idea" src="https://github.com/github/explore/blob/f7595bde8bb668be972e487807712732cdff9aed/topics/intellij-idea/intellij-idea.png"></code>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gradleuu&layout=compact&hide=html,javascript&hide_title=false&hide_progress=true&bg_color=ffffff00&border_color=55555500&text_color=888888&show_owner=true" />
+<!-- <sub>Most Used Languages</sup><br> -->
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gradleuu&layout=donut&hide=html,css&hide_title=true&hide_progress=false&bg_color=ffffff00&border_color=55555500&text_color=888888&show_owner=true" />
 
-<!-- <sub>Pseudo-pinned</sup>
+## <sub>Pseudo-pinned</sup>
 <div style="display: flex; flex-direction: column; gap: 10px;">
   <a href="https://github.com/gradleuu/predposledni">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=gradleuu&repo=predposledni&bg_color=ffffff00&border_color=555555&text_color=888888&show_owner=true&description_lines_count=2" />
@@ -29,5 +30,21 @@
   
   <a href="https://github.com/gradleuu/PWAS">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=gradleuu&repo=PWAS&bg_color=ffffff00&border_color=555555&text_color=888888&show_owner=true&description_lines_count=2" />
+  </a>   
+  
+  <a href="https://github.com/gradleuu/WynntilsFunctionsSyntax">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gradleuu&repo=WynntilsFunctionsSyntax&bg_color=ffffff00&border_color=555555&text_color=888888&show_owner=true&description_lines_count=2" />
   </a>  
-</div> -->
+  
+  <a href="https://github.com/gradleuu/UnplacableTaggedBlocks">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gradleuu&repo=UnplacableTaggedBlocks&bg_color=ffffff00&border_color=555555&text_color=888888&show_owner=true&description_lines_count=2" />
+  </a>  
+  
+  <a href="https://github.com/gradleuu/UnplacableTaggedBlocks">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gradleuu&repo=UnplacableTaggedBlocks&bg_color=ffffff00&border_color=555555&text_color=888888&show_owner=true&description_lines_count=2" />
+  </a>  
+  
+  <a href="https://github.com/gradleuu/ekiL">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gradleuu&repo=ekiL&bg_color=ffffff00&border_color=555555&text_color=888888&show_owner=true&description_lines_count=2" />
+  </a>  
+</div>
