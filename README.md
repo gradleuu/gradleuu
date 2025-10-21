@@ -40,10 +40,6 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=gradleuu&repo=UnplacableTaggedBlocks&bg_color=ffffff00&border_color=555555&text_color=888888&show_owner=true&description_lines_count=2" />
   </a>  
   
-  <a href="https://github.com/gradleuu/UnplacableTaggedBlocks">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gradleuu&repo=UnplacableTaggedBlocks&bg_color=ffffff00&border_color=555555&text_color=888888&show_owner=true&description_lines_count=2" />
-  </a>  
-  
   <a href="https://github.com/gradleuu/ekiL">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=gradleuu&repo=ekiL&bg_color=ffffff00&border_color=555555&text_color=888888&show_owner=true&description_lines_count=2" />
   </a>  
