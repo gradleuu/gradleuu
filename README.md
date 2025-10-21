@@ -12,8 +12,4 @@
   <a href="https://github.com/gradleuu/PWAS">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=gradleuu&repo=PWAS&bg_color=ffffff00&border_color=555555&text_color=888888&show_owner=true&description_lines_count=2" />
   </a>  
-  
-  <a href="https://github.com/gradleuu/EffortlessTab">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gradleuu&repo=EffortlessTab&bg_color=ffffff00&border_color=555555&text_color=888888&show_owner=true&description_lines_count=2" />
-  </a>
 </div>
