@@ -1,4 +1,4 @@
-<sub>Tools, Language & Software</sup>
+<sub>Tools, Languages & Software</sup>
 
 <code><img height="26" alt="gradle" src="https://github.com/github/explore/blob/f7595bde8bb668be972e487807712732cdff9aed/topics/gradle/gradle.png"></code>
 <code><img height="26" alt="java" src="https://github.com/github/explore/blob/f7595bde8bb668be972e487807712732cdff9aed/topics/java/java.png"></code>
