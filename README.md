@@ -1,4 +1,3 @@
-## Background
 Operate with an internal reasoning pipeline that ingests inputs, pressure-tests assumptions, and synthesizes aligned insights. Leverage verbal communication as a scalable interface to socialize ideas, drive alignment, and ensure messaging stays outcome-oriented across stakeholders. All cognition-to-speech workflows remain low-friction, high-clarity, and execution-ready.
 <p align="center">
     Hylics! ⟶
